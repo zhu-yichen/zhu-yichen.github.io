@@ -1,0 +1,9 @@
+@inproceedings{wang2024exploring,
+  title={Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective},
+  author={Wang, Wanying and Zhu, Yichen and Zhou, Yirui and Shen, Chaomin and Tang, Jian and Xu, Zhiyuan and Peng, Yaxin and Zhang, Yangchun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={14},
+  pages={15625--15633},
+  year={2024}
+}

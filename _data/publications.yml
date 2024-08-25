@@ -1,8 +1,8 @@
 main:
 
-  - title: Mm-safetybench A Benchmark for Safety Evaluation of Multimodal Large Language Models
+  - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
     authors: Xin Liu*, <strong>Yichen ZHu (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
-    conference_short: ECCV
+    conference_short: ECCV 2024
     conference: European Conference on Computer Vision
     pdf: https://arxiv.org/pdf/2311.17600
     page: https://isxinliu.github.io/Project/MM-SafetyBench/
@@ -10,9 +10,9 @@ main:
     image: ./assets/files/multi.jpg
     notes: Published
 
-  - title: Llava-phi Efficient Multi-modal Assistant with Small Language Model
+  - title: Llava-phi - Efficient Multi-modal Assistant with Small Language Model
     authors: <strong>Yichen Zhu<strong>, Minjie Zhu, Ning Liu, et al,.
-    conference_short: ACM MM@EMCLR
+    conference_short: ACM MM@EMCLR 2024
     conference: ACM Multimedia@Efficient Multimedia Computing under Limited Resources
     pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
     bibtex: ./assets/files/magnetoionic.txt
@@ -21,7 +21,7 @@ main:
 
   - title: Retrieval-Augmented Embodied Agents
     authors: <strong>Yichen Zhu<strong>, Zhicai Ou, Feifei Feng, Jian Tang
-    conference_short: CVPR
+    conference_short: CVPR 2024
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition
     pdf: ./assets/files/SSRN-id4328224.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
@@ -31,7 +31,7 @@ main:
 
   - title: Language-Conditioned Robotic Manipulation with Fast and Slow Thinking
     authors: Minjie Zhu*, <strong>Yichen Zhu (co-first author)<strong>, Zhiyuan Xu, et al,.
-    conference_short: ICRA
+    conference_short: ICRA 2024
     conference: IEEE International Conference on Robotics and Automation
     pdf: ./assets/files/SSRN-id4328224.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
@@ -41,7 +41,7 @@ main:
 
   - title: Object-Centric Instruction Augmentation for Robotic Manipulation
     authors: Junjie Wen*, <strong>Yichen Zhu (co-first author)<strong>, Zhiyuan Xu, et al,.
-    conference_short: ICRA
+    conference_short: ICRA 2024
     conference: IEEE International Conference on Robotics and Automation
     pdf: ./assets/files/SSRN-id4328224.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
@@ -49,10 +49,40 @@ main:
     image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
     notes: Published
 
-    - title: Object-Centric Instruction Augmentation for Robotic Manipulation
-    authors: Junjie Wen*, <strong>Yichen Zhu (co-first author)<strong>, Zhiyuan Xu, et al,.
-    conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation
+  - title: Exploring Gradient Explosion in Generative Adversarial Imitation Learning - A Probabilistic Perspective
+    authors: Wanying Wang*, <strong>Yichen Zhu (co-first author)<strong>, Yirui Zhou, Chaomin Shen, et al,.
+    conference_short: AAAI 2024 (Oral)
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence
+    pdf: ./assets/files/SSRN-id4328224.pdf
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    bibtex: ./assets/files/flexible.txt
+    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+    notes: Published
+
+  - title: ScaleKD - Distilling Scale-aware Knowledge in Small Object Detector
+    authors: <strong>Yichen Zhu<strong>, Qiqi Zhou, Zhicai Ou, Feifei Feng, Jian Tang
+    conference_short: CVPR 2023
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+    pdf: ./assets/files/SSRN-id4328224.pdf
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    bibtex: ./assets/files/flexible.txt
+    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+    notes: Published
+
+  - title: When Training-Free Nas Meets Vision Transformers - A Neural Tangent Kernel Perspective
+    authors: Qiqi Zhou, <strong>Yichen Zhu (Corresponding Author)<strong>
+    conference_short: ICASSP 2024 (Oral)
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing
+    pdf: ./assets/files/SSRN-id4328224.pdf
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    bibtex: ./assets/files/flexible.txt
+    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+    notes: Published
+
+  - title: Make A Long Image Short - Adaptive Token Length for Vision Transformers
+    authors: Qiqi Zhou, <strong>Yichen Zhu (Corresponding Author)<strong>
+    conference_short: ECML/PKDD 2023
+    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases
     pdf: ./assets/files/SSRN-id4328224.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
     bibtex: ./assets/files/flexible.txt
@@ -60,4 +90,23 @@ main:
     notes: Published
 
 
-  
+
+  - title: Teach Less, Learn More - On the Undistillable Classes in Knowledge Distillation
+    authors: <strong>Yichen Zhu<strong>, Ning Liu, Zhiyuan Xu, et al,.
+    conference_short: NeurIPS 2022 (Spotlight)
+    conference: Advances in Neural Information Processing Systems
+    pdf: ./assets/files/SSRN-id4328224.pdf
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    bibtex: ./assets/files/flexible.txt
+    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+    notes: Published
+
+  - title: Student Customized Knowledge Distillation - Bridging the Gap Between Student and Teacher
+    authors: <strong>Yichen Zhu<strong>, Yi Wang
+    conference_short: ICCV 2021 (Oral)
+    conference: Proceedings of the IEEE/CVF International Conference on Computer Vision
+    pdf: ./assets/files/SSRN-id4328224.pdf
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    bibtex: ./assets/files/flexible.txt
+    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+    notes: Published

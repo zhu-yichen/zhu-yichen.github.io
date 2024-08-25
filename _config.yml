@@ -2,10 +2,10 @@
 title: Yichen Zhu (祝毅晨)
 position: Researcher
 affiliation: Midea Group
-subaffiliation: Spin-Ion Technologies 
-affiliation_link: https://www.universite-paris-saclay.fr/
-subaffiliation_link: https://www.spin-ion.com/
-affiliation_logo: ./assets/img/spinion.svg
+#subaffiliation: Spin-Ion Technologies 
+#affiliation_link: https://www.universite-paris-saclay.fr/
+#subaffiliation_link: https://www.spin-ion.com/
+#affiliation_logo: ./assets/img/spinion.svg
 email: yichen_zhu (at) foxmail.com
 #email2: song.chen (at) universite-paris-saclay.fr
 #address: 10 Bd Thomas Gobert, 91120 Palaiseau

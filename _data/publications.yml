@@ -11,10 +11,10 @@ main:
 
   - title: Llava-phi - Efficient Multi-modal Assistant with Small Language Model
     #authors: <strong>Yichen Zhu<strong>, Minjie Zhu, Ning Liu, Jian Tang
-    authors: <strong>Yichen Zhu</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
+    authors: <strong>Yichen Zhu</strong>, Minjie ZHu, Ning Liu, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: ACM MM@EMCLR
     conference: ACM Multimedia - Efficient Multimedia Computing under Limited Resources, 2024
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    pdf: https://arxiv.org/pdf/2401.02330
     code: https://github.com/zhuyiche/llava-phi
     image: ./assets/files/llava-phi.png
     notes: Published

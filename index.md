@@ -15,4 +15,3 @@ yichen_zhu at foxmaill dot com
 {% include_relative _includes/publications.md %}
 
 
-{% include_relative _includes/contact.md %}

@@ -6,21 +6,22 @@ main:
     conference: European Conference on Computer Vision (ECCV), 2024
     pdf: https://arxiv.org/pdf/2311.17600
     page: https://isxinliu.github.io/Project/MM-SafetyBench/
-    image: ./assets/files/multi.jpg
+    image: ./assets/files/query-rele.png
     notes: Published
 
   - title: Llava-phi - Efficient Multi-modal Assistant with Small Language Model
-    authors: <strong>Yichen Zhu<strong>, Minjie Zhu, Ning Liu, et al,
+    authors: <strong>Yichen Zhu<strong>, Minjie Zhu, Ning Liu, Jian Tang
     conference_short: ACM MM@EMCLR
     conference: ACM Multimedia - Efficient Multimedia Computing under Limited Resources, 2024
     pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    image: ./assets/files/llava-phi.png
     notes: Published
 
   - title: Retrieval-Augmented Embodied Agents
     authors: <strong>Yichen Zhu<strong>, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
-    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+    image: ./assets/files/raea.png
     notes: Published
 
   - title: Language-Conditioned Robotic Manipulation with Fast and Slow Thinking
@@ -28,6 +29,7 @@ main:
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    image: ./assets/files/icra_rsft.png
     notes: Published
 
   - title: Object-Centric Instruction Augmentation for Robotic Manipulation
@@ -36,6 +38,7 @@ main:
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
     pdf: https://arxiv.org/pdf/2401.02814
     page: https://oci-robotics.github.io/
+    image: ./assets/files/icra_oci.png
     notes: Published
 
   - title: Exploring Gradient Explosion in Generative Adversarial Imitation Learning - A Probabilistic Perspective
@@ -44,6 +47,7 @@ main:
     conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Oral, 2024
     pdf: ./assets/files/SSRN-id4328224.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    image: ./assets/files/aaai_gail.png
     notes: Published
 
   - title: ScaleKD - Distilling Scale-aware Knowledge in Small Object Detector
@@ -52,6 +56,7 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
     pdf: ./assets/files/SSRN-id4328224.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    image: ./assets/files/scalekd.png
     notes: Published
 
   - title: When Training-Free Nas Meets Vision Transformers - A Neural Tangent Kernel Perspective
@@ -59,24 +64,26 @@ main:
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Oral, 2023
     pdf: ./assets/files/SSRN-id4328224.pdf
+    image: ./assets/files/icassp.png
     notes: Published
 
   - title: Make A Long Image Short - Adaptive Token Length for Vision Transformers
     authors: Qiqi Zhou, <strong>Yichen Zhu (Corresponding Author)<strong>
     conference_short: ECML/PKDD
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023
+    image: ./assets/files/ecml.png
     notes: Published
-
-
 
   - title: Teach Less, Learn More - On the Undistillable Classes in Knowledge Distillation
     authors: <strong>Yichen Zhu<strong>, Ning Liu, Zhiyuan Xu, et al,.
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems, Spotlight, 2022
+    image: ./assets/files/tllm.png
     notes: Published
 
   - title: Student Customized Knowledge Distillation - Bridging the Gap Between Student and Teacher
     authors: <strong>Yichen Zhu<strong>, Yi Wang
     conference_short: ICCV
     conference: Proceedings of the IEEE/CVF International Conference on Computer Vision, Oral, 2021
+    image: ./assets/files/sckd.png
     notes: Published

@@ -7,17 +7,16 @@ main:
     pdf: https://arxiv.org/pdf/2311.17600
     page: https://isxinliu.github.io/Project/MM-SafetyBench/
     image: ./assets/files/query-rele.png
-    notes: Published
 
   - title: Llava-phi - Efficient Multi-modal Assistant with Small Language Model
     #authors: <strong>Yichen Zhu<strong>, Minjie Zhu, Ning Liu, Jian Tang
-    authors: <strong>Yichen Zhu</strong>, Minjie ZHu, Ning Liu, Zhicai Ou, Feifei Feng, Jian Tang
+    authors: <strong>Yichen Zhu</strong>, Minjie Zhu, Ning Liu, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: ACM MM@EMCLR
     conference: ACM Multimedia - Efficient Multimedia Computing under Limited Resources, 2024
     pdf: https://arxiv.org/pdf/2401.02330
     code: https://github.com/zhuyiche/llava-phi
     image: ./assets/files/llava-phi.png
-    notes: Published
+    
 
   - title: Retrieval-Augmented Embodied Agents
     authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
@@ -25,10 +24,10 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
     image: ./assets/files/raea.png
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf
-    notes: Published
+    
 
   - title: Language-Conditioned Robotic Manipulation with Fast and Slow Thinking
-    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)<strong>, Zhiyuan Xu, et al,.
+    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)<strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
     pdf: https://arxiv.org/pdf/2401.04181
@@ -37,7 +36,7 @@ main:
     notes: Published
 
   - title: Object-Centric Instruction Augmentation for Robotic Manipulation
-    authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author)<strong>, Zhiyuan Xu, et al,.
+    authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author)<strong>, Minjie Zhu, Jinming Li, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
     pdf: https://arxiv.org/pdf/2401.02814
@@ -63,7 +62,7 @@ main:
     notes: Published
 
   - title: When Training-Free Nas Meets Vision Transformers - A Neural Tangent Kernel Perspective
-    authors: Qiqi Zhou, <strong>Yichen Zhu$\dagger$ (Corresponding Author)<strong>
+    authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)<strong>
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Oral, 2023
     pdf: ./assets/files/SSRN-id4328224.pdf
@@ -71,14 +70,14 @@ main:
     notes: Published
 
   - title: Make A Long Image Short - Adaptive Token Length for Vision Transformers
-    authors: Qiqi Zhou, <strong>Yichen Zhu (Corresponding Author)<strong>
+    authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)<strong>
     conference_short: ECML/PKDD
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023
     image: ./assets/files/ecml.png
     notes: Published
 
   - title: Teach Less, Learn More - On the Undistillable Classes in Knowledge Distillation
-    authors: <strong>Yichen Zhu<strong>, Ning Liu, Zhiyuan Xu, et al,.
+    authors: <strong>Yichen Zhu<strong>, Ning Liu, Zhiyuan Xu, Xin Liu, Weibin Meng, Louis Wang, Zhicai Ou, Jian Tang
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems, Spotlight, 2022
     pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5c369c1bc070361477008e3f5210ed-Paper-Conference.pdf

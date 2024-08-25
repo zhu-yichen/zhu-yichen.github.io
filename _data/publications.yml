@@ -58,7 +58,7 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
     pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_ScaleKD_Distilling_Scale-Aware_Knowledge_in_Small_Object_Detector_CVPR_2023_paper.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    page: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_ScaleKD_Distilling_Scale-Aware_Knowledge_in_Small_Object_Detector_CVPR_2023_paper.pdf
     image: ./assets/files/scalekd.png
 
 
@@ -66,25 +66,26 @@ main:
     authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)</strong>
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Oral, 2023
-    pdf: ./assets/files/SSRN-id4328224.pdf
+    pdf: https://www.researchgate.net/profile/Yichen-Zhu/publication/379153394_WHEN_TRAINING-FREE_NAS_MEETS_VISION_TRANSFORMERS_A_NEURAL_TANGENT_KERNEL_PERSPECTIVE/links/65fd1ae1d3a08551423d3483/WHEN-TRAINING-FREE-NAS-MEETS-VISION-TRANSFORMERS-A-NEURAL-TANGENT-KERNEL-PERSPECTIVE.pdf
     image: ./assets/files/icassp.png
 
   - title: Make A Long Image Short - Adaptive Token Length for Vision Transformers
     authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)</strong>
     conference_short: ECML/PKDD
-    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023
+    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML/PKDD), 2023
+    pdf: https://arxiv.org/pdf/2307.02092
     image: ./assets/files/ecml.png
 
   - title: Teach Less, Learn More - On the Undistillable Classes in Knowledge Distillation
     authors: <strong>Yichen Zhu</strong>, Ning Liu, Zhiyuan Xu, Xin Liu, Weibin Meng, Louis Wang, Zhicai Ou, Jian Tang
     conference_short: NeurIPS
-    conference: Advances in Neural Information Processing Systems, Spotlight, 2022
+    conference: Advances in Neural Information Processing Systems (NeurIPS), Spotlight, 2022
     pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5c369c1bc070361477008e3f5210ed-Paper-Conference.pdf
     image: ./assets/files/tllm.png
 
   - title: Student Customized Knowledge Distillation - Bridging the Gap Between Student and Teacher
     authors: <strong>Yichen Zhu</strong>, Yi Wang
     conference_short: ICCV
-    conference: Proceedings of the IEEE/CVF International Conference on Computer Vision, Oral, 2021
+    conference: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oral, 2021
     pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Student_Customized_Knowledge_Distillation_Bridging_the_Gap_Between_Student_and_ICCV_2021_paper.pdf
     image: ./assets/files/sckd.png

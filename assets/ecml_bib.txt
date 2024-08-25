@@ -1,0 +1,8 @@
+@inproceedings{zhou2023make,
+  title={Make a long image short: Adaptive token length for vision transformers},
+  author={Zhou, Qiqi and Zhu, Yichen},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={69--85},
+  year={2023},
+  organization={Springer}
+}

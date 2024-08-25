@@ -1,0 +1,9 @@
+@misc{liu2024mmsafetybenchbenchmarksafetyevaluation,
+      title={MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models}, 
+      author={Xin Liu and Yichen Zhu and Jindong Gu and Yunshi Lan and Chao Yang and Yu Qiao},
+      year={2024},
+      eprint={2311.17600},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2311.17600}, 
+}

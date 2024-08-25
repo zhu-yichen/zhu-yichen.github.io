@@ -1,0 +1,7 @@
+@inproceedings{zhu2021student,
+  title={Student customized knowledge distillation: Bridging the gap between student and teacher},
+  author={Zhu, Yichen and Wang, Yi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5057--5066},
+  year={2021}
+}

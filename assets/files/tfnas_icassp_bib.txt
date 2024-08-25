@@ -1,0 +1,8 @@
+@inproceedings{zhou2024training,
+  title={When Training-Free Nas Meets Vision Transformers: A Neural Tangent Kernel Perspective},
+  author={Zhou, Qiqi and Zhu, Yichen},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={7405--7409},
+  year={2024},
+  organization={IEEE}
+}

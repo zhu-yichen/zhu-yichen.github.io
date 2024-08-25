@@ -1,0 +1,8 @@
+@article{zhu2022teach,
+  title={Teach less, learn more: On the undistillable classes in knowledge distillation},
+  author={Zhu, Yichen and Liu, Ning and Xu, Zhiyuan and Liu, Xin and Meng, Weibin and Wang, Louis and Ou, Zhicai and Tang, Jian},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={32011--32024},
+  year={2022}
+}

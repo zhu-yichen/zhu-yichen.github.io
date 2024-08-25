@@ -1,0 +1,7 @@
+@inproceedings{zhu2023scalekd,
+  title={Scalekd: Distilling scale-aware knowledge in small object detector},
+  author={Zhu, Yichen and Zhou, Qiqi and Liu, Ning and Xu, Zhiyuan and Ou, Zhicai and Mou, Xiaofeng and Tang, Jian},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19723--19733},
+  year={2023}
+}

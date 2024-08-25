@@ -1,0 +1,6 @@
+@article{zhu2024language,
+  title={Language-Conditioned Robotic Manipulation with Fast and Slow Thinking},
+  author={Zhu, Minjie and Zhu, Yichen and Li, Jinming and Wen, Junjie and Xu, Zhiyuan and Che, Zhengping and Shen, Chaomin and Peng, Yaxin and Liu, Dong and Feng, Feifei and others},
+  journal={arXiv preprint arXiv:2401.04181},
+  year={2024}
+}

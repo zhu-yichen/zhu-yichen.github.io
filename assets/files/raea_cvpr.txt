@@ -1,0 +1,7 @@
+@inproceedings{zhu2024retrieval,
+  title={Retrieval-Augmented Embodied Agents},
+  author={Zhu, Yichen and Ou, Zhicai and Mou, Xiaofeng and Tang, Jian},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={17985--17995},
+  year={2024}
+}

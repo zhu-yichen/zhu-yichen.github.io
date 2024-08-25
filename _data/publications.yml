@@ -14,7 +14,7 @@ main:
     conference_short: ACM MM@EMCLR
     conference: ACM Multimedia - Efficient Multimedia Computing under Limited Resources, 2024
     pdf: https://arxiv.org/pdf/2401.02330
-    code: https://github.com/zhuyiche/llava-phi
+    page: https://github.com/zhuyiche/llava-phi
     image: ./assets/files/llava-phi.png
     
 
@@ -34,61 +34,57 @@ main:
     pdf: https://arxiv.org/pdf/2401.04181
     page: https://jlm-z.github.io/RSFT/
     image: ./assets/files/icra_rsft.png
-    notes: Published
+
 
   - title: Object-Centric Instruction Augmentation for Robotic Manipulation
-    authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author)<strong>, Minjie Zhu, Jinming Li, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+    authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author)</strong>, Minjie Zhu, Jinming Li, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
     pdf: https://arxiv.org/pdf/2401.02814
     page: https://oci-robotics.github.io/
     image: ./assets/files/icra_oci.png
-    notes: Published
+
 
   - title: Exploring Gradient Explosion in Generative Adversarial Imitation Learning - A Probabilistic Perspective
-    authors: Wanying Wang*, <strong>Yichen Zhu* (co-first author)<strong>, Yirui Zhou, Chaomin Shen, Zhiyuan Xu, Jian Tang, Yaxin Peng
+    authors: Wanying Wang*, <strong>Yichen Zhu* (co-first author)</strong>, Yirui Zhou, Chaomin Shen, Zhiyuan Xu, Jian Tang, Yaxin Peng
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Oral, 2024
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29490/30809
     image: ./assets/files/aaai_gail.png
-    notes: Published
+
 
   - title: ScaleKD - Distilling Scale-aware Knowledge in Small Object Detector
-    authors: <strong>Yichen Zhu<strong>, Qiqi Zhou, Zhicai Ou, Feifei Feng, Jian Tang
+    authors: <strong>Yichen Zhu</strong>, Qiqi Zhou, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
     pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_ScaleKD_Distilling_Scale-Aware_Knowledge_in_Small_Object_Detector_CVPR_2023_paper.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
     image: ./assets/files/scalekd.png
-    notes: Published
+
 
   - title: When Training-Free Nas Meets Vision Transformers - A Neural Tangent Kernel Perspective
-    authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)<strong>
+    authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)</strong>
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Oral, 2023
     pdf: ./assets/files/SSRN-id4328224.pdf
     image: ./assets/files/icassp.png
-    notes: Published
 
   - title: Make A Long Image Short - Adaptive Token Length for Vision Transformers
-    authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)<strong>
+    authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)</strong>
     conference_short: ECML/PKDD
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023
     image: ./assets/files/ecml.png
-    notes: Published
 
   - title: Teach Less, Learn More - On the Undistillable Classes in Knowledge Distillation
-    authors: <strong>Yichen Zhu<strong>, Ning Liu, Zhiyuan Xu, Xin Liu, Weibin Meng, Louis Wang, Zhicai Ou, Jian Tang
+    authors: <strong>Yichen Zhu</strong>, Ning Liu, Zhiyuan Xu, Xin Liu, Weibin Meng, Louis Wang, Zhicai Ou, Jian Tang
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems, Spotlight, 2022
     pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5c369c1bc070361477008e3f5210ed-Paper-Conference.pdf
     image: ./assets/files/tllm.png
-    notes: Published
 
   - title: Student Customized Knowledge Distillation - Bridging the Gap Between Student and Teacher
-    authors: <strong>Yichen Zhu<strong>, Yi Wang
+    authors: <strong>Yichen Zhu</strong>, Yi Wang
     conference_short: ICCV
     conference: Proceedings of the IEEE/CVF International Conference on Computer Vision, Oral, 2021
     pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Student_Customized_Knowledge_Distillation_Bridging_the_Gap_Between_Student_and_ICCV_2021_paper.pdf
     image: ./assets/files/sckd.png
-    notes: Published

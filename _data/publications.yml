@@ -27,7 +27,8 @@ main:
     
 
   - title: Language-Conditioned Robotic Manipulation with Fast and Slow Thinking
-    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)<strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+    #authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)<strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+    authors: Minjie Zhu*, <strong>Yichen Zhu</strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
     pdf: https://arxiv.org/pdf/2401.04181

@@ -88,7 +88,7 @@ main:
     conference: Advances in Neural Information Processing Systems (NeurIPS), Spotlight, 2022
     pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5c369c1bc070361477008e3f5210ed-Paper-Conference.pdf
     image: ./assets/files/tllm.png
-    bibtext: ./assets/files/tllm_bib.txt
+    bibtex: ./assets/files/tllm_bib.txt
 
   - title: Student Customized Knowledge Distillation - Bridging the Gap Between Student and Teacher
     authors: <strong>Yichen Zhu</strong>, Yi Wang

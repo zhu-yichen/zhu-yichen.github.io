@@ -20,17 +20,19 @@ main:
     notes: Published
 
   - title: Retrieval-Augmented Embodied Agents
-    authors: <strong>Yichen Zhu<strong>, Zhicai Ou, Feifei Feng, Jian Tang
+    authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
     image: ./assets/files/raea.png
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf
     notes: Published
 
   - title: Language-Conditioned Robotic Manipulation with Fast and Slow Thinking
     authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)<strong>, Zhiyuan Xu, et al,.
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    pdf: https://arxiv.org/pdf/2401.04181
+    page: https://jlm-z.github.io/RSFT/
     image: ./assets/files/icra_rsft.png
     notes: Published
 

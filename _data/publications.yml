@@ -1,16 +1,52 @@
 main:
+  - title: Scalable Diffusion Policy - Scale Up DiffusionPolicy via Transformers for Visuomotor Learning
+    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Yanjie Ze, Zhiyuan Xu, Jinming Li, Junjie Wen, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang
+    conference_short: Preprint
+    conference: Preprint, 2024
+    page: https://scaling-diffusion-policy.github.io/
+    image: ./assets/files/scaledp_img.gif
+
   - title: Diffusion-VLA - Aligning Vision-Language Models with Diffusion Policy for Visuomotor Learning
     authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Yanjie Ze, Minjie Zhu, Zhiyuan Xu, Jinming Li, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang
+    conference_short: Preprint
     conference: Preprint, 2024
     page: https://diffusion-vla.github.io/
     image: ./assets/files/dvla_img.gif
   
-  - title: Scalable Diffusion Policy - Scale Up DiffusionPolicy via Transformers for Visuomotor Learning
-    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Yanjie Ze, Zhiyuan Xu, Jinming Li, Junjie Wen, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang
+  - title: Learning Multi-Task Visuomotor Policies with Discrete Diffusion
+    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)</strong>, Ning Liu, Jinming Li, Zhiyuan Xu, Qinru Qiu, Jian Tang
+    conference_short: Preprint
     conference: Preprint, 2024
     page: https://scaling-diffusion-policy.github.io/
     image: ./assets/files/scaledp_img.gif
   
+  - title: Retrieval-Augmented Embodied Agents
+    authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+    image: ./assets/files/raea_img.gif
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf
+    bibtex: ./assets/files/raea_cvpr.txt
+
+  - title: Language-Conditioned Robotic Manipulation with Fast and Slow Thinking
+    #authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)<strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+    authors: Minjie Zhu*, <strong>Yichen Zhu</strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
+    pdf: https://arxiv.org/pdf/2401.04181
+    page: https://jlm-z.github.io/RSFT/
+    image: ./assets/files/rsft_img.gif
+    bibtex: ./assets/files/rsft_bib.txt
+
+  - title: Object-Centric Instruction Augmentation for Robotic Manipulation
+    authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author)</strong>, Minjie Zhu, Jinming Li, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
+    pdf: https://arxiv.org/pdf/2401.02814
+    page: https://oci-robotics.github.io/
+    image: ./assets/files/oci_img.gif
+    bibtex: ./assets/files/oci_icra_ref.txt
+
   - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
     authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
     conference_short: ECCV
@@ -29,36 +65,6 @@ main:
     page: https://github.com/zhuyiche/llava-phi
     image: ./assets/files/llava-phi.png
     bibtex: ./assets/files/llavaphi_bib.txt
-    
-
-  - title: Retrieval-Augmented Embodied Agents
-    authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
-    image: ./assets/files/raea.png
-    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf
-    bibtex: ./assets/files/raea_cvpr.txt
-
-  - title: Language-Conditioned Robotic Manipulation with Fast and Slow Thinking
-    #authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)<strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
-    authors: Minjie Zhu*, <strong>Yichen Zhu</strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
-    conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
-    pdf: https://arxiv.org/pdf/2401.04181
-    page: https://jlm-z.github.io/RSFT/
-    image: ./assets/files/icra_rsft.png
-    bibtex: ./assets/files/rsft_bib.txt
-
-
-  - title: Object-Centric Instruction Augmentation for Robotic Manipulation
-    authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author)</strong>, Minjie Zhu, Jinming Li, Zhiyuan Xu, Zhengping Che, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
-    conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
-    pdf: https://arxiv.org/pdf/2401.02814
-    page: https://oci-robotics.github.io/
-    image: ./assets/files/icra_oci.png
-    bibtex: ./assets/files/oci_icra_ref.txt
-
 
   - title: Exploring Gradient Explosion in Generative Adversarial Imitation Learning - A Probabilistic Perspective
     authors: Wanying Wang*, <strong>Yichen Zhu* (co-first author)</strong>, Yirui Zhou, Chaomin Shen, Zhiyuan Xu, Jian Tang, Yaxin Peng

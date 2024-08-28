@@ -1,13 +1,15 @@
 main:
-  - title: Diffusion-VLA
-    authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
-    conference_short: ECCV
-    conference: European Conference on Computer Vision (ECCV), 2024
-    pdf: https://arxiv.org/pdf/2311.17600
-    page: https://isxinliu.github.io/Project/MM-SafetyBench/
+  - title: Diffusion-VLA - Aligning Vision-Language Models with Diffusion Policy for Visuomotor Learning
+    authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Yanjie Ze, Minjie Zhu, Zhiyuan Xu, Jinming Li, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang
+    conference: Preprint, 2024
+    page: https://diffusion-vla.github.io/
     image: ./assets/files/dvla_img.gif
-    bibtex: ./assets/files/mmsafety_bib.txt
   
+  - title: Scalable Diffusion Policy - Scale Up DiffusionPolicy via Transformers for Visuomotor Learning
+    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Yanjie Ze, Zhiyuan Xu, Jinming Li, Junjie Wen, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang
+    conference: Preprint, 2024
+    page: https://scaling-diffusion-policy.github.io/
+    image: ./assets/files/scaledp_img.gif
   
   - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
     authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao

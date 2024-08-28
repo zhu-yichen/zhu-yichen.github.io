@@ -14,7 +14,7 @@ main:
     image: ./assets/files/scaledp_img.gif
   
   - title: Learning Multi-Task Visuomotor Policies with Discrete Diffusion
-    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author)</strong>, Ning Liu, Jinming Li, Zhiyuan Xu, Qinru Qiu, Jian Tang
+    authors: Kun Wu*, <strong>Yichen Zhu* (co-first author)</strong>, Ning Liu, Jinming Li, Zhiyuan Xu, Qinru Qiu, Jian Tang
     conference_short: Preprint
     conference: Preprint, 2024
     page: https://scaling-diffusion-policy.github.io/

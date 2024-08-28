@@ -20,6 +20,13 @@ main:
     page: https://scaling-diffusion-policy.github.io/
     image: ./assets/files/discrete_img.gif
   
+  - title: Agent as Policies - LLM Powered Bimanual Robot Agent for Long-Horizon Tasks
+    authors: Yi Qiao*, <strong>Yichen Zhu* (co-first author)</strong>, Yong Wang, Ning Liu, Zhiyuan Xu, Ran Cheng, Tao Sun, Feifei Feng, Jian Tang
+    conference_short: Preprint
+    conference: Preprint, 2024
+    page: https://scaling-diffusion-policy.github.io/
+    image: ./assets/files/agp_img.gif
+
   - title: Retrieval-Augmented Embodied Agents
     authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: CVPR

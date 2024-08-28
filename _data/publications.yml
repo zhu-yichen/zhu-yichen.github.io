@@ -1,5 +1,14 @@
 main:
-
+  - title: Diffusion-VLA
+    authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
+    conference_short: ECCV
+    conference: European Conference on Computer Vision (ECCV), 2024
+    pdf: https://arxiv.org/pdf/2311.17600
+    page: https://isxinliu.github.io/Project/MM-SafetyBench/
+    gif: ./assets/files/dvla_img.gif
+    bibtex: ./assets/files/mmsafety_bib.txt
+  
+  
   - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
     authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
     conference_short: ECCV

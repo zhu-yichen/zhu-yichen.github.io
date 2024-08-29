@@ -26,7 +26,16 @@ main:
     conference: Preprint, 2024
     page: https://scaling-diffusion-policy.github.io/
     image: ./assets/files/agp_img.gif
-
+  
+  - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
+    authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
+    conference_short: ECCV
+    conference: European Conference on Computer Vision (ECCV), 2024
+    pdf: https://arxiv.org/pdf/2311.17600
+    page: https://isxinliu.github.io/Project/MM-SafetyBench/
+    image: ./assets/files/query-rele.png
+    bibtex: ./assets/files/mmsafety_bib.txt
+    
   - title: Retrieval-Augmented Embodied Agents
     authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: CVPR
@@ -42,7 +51,7 @@ main:
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024
     pdf: https://arxiv.org/pdf/2401.04181
     page: https://jlm-z.github.io/RSFT/
-    image: ./assets/files/rsft_img.gif
+    image: ./assets/files/rfst_img.gif
     bibtex: ./assets/files/rsft_bib.txt
 
   - title: Object-Centric Instruction Augmentation for Robotic Manipulation
@@ -53,15 +62,6 @@ main:
     page: https://oci-robotics.github.io/
     image: ./assets/files/oci_img.gif
     bibtex: ./assets/files/oci_icra_ref.txt
-
-  - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
-    authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
-    conference_short: ECCV
-    conference: European Conference on Computer Vision (ECCV), 2024
-    pdf: https://arxiv.org/pdf/2311.17600
-    page: https://isxinliu.github.io/Project/MM-SafetyBench/
-    image: ./assets/files/query-rele.png
-    bibtex: ./assets/files/mmsafety_bib.txt
 
   - title: Llava-phi - Efficient Multi-modal Assistant with Small Language Model
     #authors: <strong>Yichen Zhu<strong>, Minjie Zhu, Ning Liu, Jian Tang

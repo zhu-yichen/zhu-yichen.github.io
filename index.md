@@ -11,7 +11,7 @@ I am currently a Researher at [Midea Group](https://www.midea.com/us). Before th
 yichen_zhu at foxmaill dot com
 
 
-
+{% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
 
 

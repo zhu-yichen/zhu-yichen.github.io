@@ -1,4 +1,10 @@
 main:
+  - title: Any2Policy - Learning Visuomotor Policy with Any-Modality
+    authors: Yichen Zhu, Zhicai Ou, Feifei Feng, Jian Tang
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
+    image: ./assets/files/any2policy_file.png
+
   - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
     authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
     conference_short: ECCV

@@ -2,7 +2,7 @@ main:
   - title: Any2Policy - Learning Visuomotor Policy with Any-Modality
     authors: Yichen Zhu, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
+    conference: Neural Information Processing Systems (NeurIPS), 2024
     pdf: https://openreview.net/pdf?id=8lcW9ltJx9
     image: ./assets/files/any2policy_file.png
     

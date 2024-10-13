@@ -1,5 +1,5 @@
 main:
-    - title: Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
+  - title: Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
     authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Ning Liu, Ran Cheng, Chaomin Shen, Yaxin Peng, Feifei Feng, Jian Tang
     conference_short: Arxiv
     conference: Arxiv, 2024

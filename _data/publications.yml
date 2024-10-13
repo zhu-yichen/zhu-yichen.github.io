@@ -1,15 +1,15 @@
 main:
     - title: Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
     authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Ning Liu, Ran Cheng, Chaomin Shen, Yaxin Peng, Feifei Feng, Jian Tang
-    conference_short: Arixv
-    conference: Arixv, 2024
+    conference_short: Arxiv
+    conference: Arxiv, 2024
     pdf: https://arxiv.org/pdf/2409.14411
     image: ./assets/files/scaledp.png
 
   - title: TinyVLA - Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation
     authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Minjie Zhu, Kun Wu, Zhiyuan Xu, Ran Cheng, Chaomin Shen, Yaxin Peng, Feifei Feng, Jian Tang
-    conference_short: Arixv
-    conference: Arixv, 2024
+    conference_short: Arxiv
+    conference: Arxiv, 2024
     pdf: https://arxiv.org/pdf/2409.12514
     image: ./assets/files/tinyvla.png
 

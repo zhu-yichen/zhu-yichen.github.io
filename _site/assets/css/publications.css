@@ -80,3 +80,17 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+
+.more-pubs {
+  display: none; /* 默认隐藏超过前5条的publication条目 */
+  max-height: 0; /* 设置初始高度为0，以便动画效果 */
+  overflow: hidden;
+  transition: max-height 0.5s ease-in-out, visibility 0.5s ease-in-out;
+}
+
+/* 当条目显示时的样式 */
+.more-pubs.open {
+  display: block; /* 显示更多publication条目 */
+  max-height: 1000px; /* 设置最大高度，确保条目完全显示 */
+}

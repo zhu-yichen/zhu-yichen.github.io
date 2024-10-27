@@ -12,11 +12,25 @@ main:
     conference: Arxiv, 2024
     pdf: https://arxiv.org/pdf/2409.12514
     image: ./assets/files/tinyvla.png
+  
+  - title: Discrete Policy - Learning Disentangled Action Space for Multi-Task Robotic Manipulation
+    authors: Kun Wu*, <strong>Yichen Zhu* (co-first author)</strong>, Jinming Li, Junjie Wen, Ning Liu, Zhiyuan Xu, Qirui Qiu, Jian Tang
+    conference_short: Arxiv
+    conference: Arxiv, 2024
+    pdf: https://arxiv.org/pdf/2409.18707
+    image: ./assets/files/discrete_policy.png
+  
+  - title: Are Multimodal LLMs Eligible as the “Brain” for In-Home Robotics?
+    authors: <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li*, Zhiyuan Xu, Jindong Gu, Minjie Zhu, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang
+    conference_short: Arxiv
+    conference: Arxiv, 2024
+    pdf: https://arxiv.org/pdf/2406.19693
+    image: ./assets/files/mmro_file.png
 
   - title: Any2Policy - Learning Visuomotor Policy with Any-Modality
     authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
     conference_short: NeurIPS
-    conference: Neural Information Processing Systems (NeurIPS), 2024
+    conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
     pdf: https://openreview.net/pdf?id=8lcW9ltJx9
     image: ./assets/files/any2policy_file.png
     

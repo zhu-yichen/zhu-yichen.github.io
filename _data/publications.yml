@@ -40,18 +40,11 @@ main:
     conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
     image: ./assets/files/edt_file.png
 
-  - title: RAGRAPH - A General Retrieval-Augmented Graph Learning Framework
+  - title: A General Retrieval-Augmented Graph Learning Framework
     authors: Xinke Jiang, Rihong Qiu, Yongxin Xu, Wentao Zhang, <strong>Yichen Zhu</strong>, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
     image: ./assets/files/raggraph_file.png
-
-  - title: Any2Policy - Learning Visuomotor Policy with Any-Modality
-    authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
-    pdf: https://openreview.net/pdf?id=8lcW9ltJx9
-    image: ./assets/files/any2policy_file.png
 
   - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
     authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
@@ -103,7 +96,7 @@ main:
     #authors: <strong>Yichen Zhu<strong>, Minjie Zhu, Ning Liu, Jian Tang
     authors: Xin Liu, <strong>Yichen Zhu</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
     conference_short: IJCAI
-    conference: International Joint Conference on Artificial Intelligence, 2024
+    conference: International Joint Conference on Artificial Intelligence (IJCAI), 2024
     pdf: https://arxiv.org/pdf/2402.00357
     image: ./assets/files/safety_mm.png
 

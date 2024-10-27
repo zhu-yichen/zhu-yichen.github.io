@@ -33,7 +33,26 @@ main:
     conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
     pdf: https://openreview.net/pdf?id=8lcW9ltJx9
     image: ./assets/files/any2policy_file.png
-    
+
+  - title: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching
+    authors: Xinwang Chen*, Ning Liu*, <strong>Yichen Zhu</strong>, Feifei Feng, Jian Tang
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
+    image: ./assets/files/edt_file.png
+
+  - title: RAGRAPH - A General Retrieval-Augmented Graph Learning Framework
+    authors: Xinke Jiang, Rihong Qiu, Yongxin Xu, Wentao Zhang, <strong>Yichen Zhu</strong>, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
+    image: ./assets/files/raggraph_file.png
+
+  - title: Any2Policy - Learning Visuomotor Policy with Any-Modality
+    authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems (NeurIPS), 2024
+    pdf: https://openreview.net/pdf?id=8lcW9ltJx9
+    image: ./assets/files/any2policy_file.png
+
   - title: Mm-safetybench - A Benchmark for Safety Evaluation of Multimodal Large Language Models
     authors: Xin Liu*, <strong>Yichen Zhu* (co-first author)</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
     conference_short: ECCV
@@ -80,6 +99,14 @@ main:
     image: ./assets/files/llava-phi.png
     bibtex: ./assets/files/llavaphi_bib.txt
 
+  - title: Safety of Multimodal Large Language Models on Images and Texts
+    #authors: <strong>Yichen Zhu<strong>, Minjie Zhu, Ning Liu, Jian Tang
+    authors: Xin Liu, <strong>Yichen Zhu</strong>, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence, 2024
+    pdf: https://arxiv.org/pdf/2402.00357
+    image: ./assets/files/safety_mm.png
+
   - title: Exploring Gradient Explosion in Generative Adversarial Imitation Learning - A Probabilistic Perspective
     authors: Wanying Wang*, <strong>Yichen Zhu* (co-first author)</strong>, Yirui Zhou, Chaomin Shen, Zhiyuan Xu, Jian Tang, Yaxin Peng
     conference_short: AAAI
@@ -87,6 +114,13 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29490/30809
     image: ./assets/files/aaai_gail.png
     bibtex: ./assets/files/gail_aaai_ref.txt
+  
+  - title: Early Pruning with Self-Distillation for Effcient Model Compression
+    authors: Dong Chen, Ning Liu, <strong>Yichen Zhu</strong>, Zhengping Che, Rui Ma, Fachao Zhang, Xiaofeng Mou, Yi Chang, Jian Tang
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29004/29906
+    image: ./assets/files/epsd_file.png
 
   - title: ScaleKD - Distilling Scale-aware Knowledge in Small Object Detector
     authors: <strong>Yichen Zhu</strong>, Qiqi Zhou, Zhicai Ou, Feifei Feng, Jian Tang
@@ -112,6 +146,13 @@ main:
     pdf: https://arxiv.org/pdf/2307.02092
     image: ./assets/files/ecml.png
     bibtex: ./assets/files/ecml_bib.txt
+
+  - title: Label-Guided Auxiliary Training Improves 3D Object Detector
+    authors: Yaomin Huang*, Xinmei Liu*, <strong>Yichen Zhu</strong>, Zhiyuan Xu, Chaomin Shen, Zhengping Che, Guixu Zhang, Yaxin Peng, Feifei Feng, Jian Tang
+    conference_short: ECCV
+    conference: European Conference on Computer Vision (ECCV), 2022
+    pdf: https://arxiv.org/pdf/2207.11753
+    image: ./assets/files/lg3d_file.png
 
   - title: Teach Less, Learn More - On the Undistillable Classes in Knowledge Distillation
     authors: <strong>Yichen Zhu</strong>, Ning Liu, Zhiyuan Xu, Xin Liu, Weibin Meng, Louis Wang, Zhicai Ou, Jian Tang

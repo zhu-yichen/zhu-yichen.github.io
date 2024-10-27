@@ -6,7 +6,7 @@
   <ol class="bibliography">
 
     {% for link in site.data.conferences.main %}
-    <li class="pub-item" {% if forloop.index > 5 %}style="display: none;" class="more-pubs"{% endif %}>
+    <li class="pub-item {% if forloop.index > 5 %}more-pubs{% endif %}" {% if forloop.index > 5 %}style="display: none;"{% endif %}>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
@@ -61,7 +61,7 @@
     var button = document.getElementById('toggleButton');
     
     morePubs.forEach(function(pub) {
-      if (pub.style.display === 'none') {
+      if (pub.style.display === 'none' || pub.style.display === '') {
         pub.style.display = 'block';
       } else {
         pub.style.display = 'none';

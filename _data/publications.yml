@@ -22,13 +22,6 @@ main:
     pdf: https://arxiv.org/pdf/2409.12514
     page: https://tiny-vla.github.io
     image: ./assets/files/tinyvla.png
-  
-  - title: Mipha - A Comprehensive Overhaul of Multimodal Assistant with Small Language Models
-    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Ning Liu, Xin Liu, Zhiyuan Xu, Chaomin Shen, Yaxin Peng
-    conference_short: AAAI
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024
-    pdf: https://arxiv.org/abs/2403.06199
-    image: ./assets/files/mipha.png
 
   - title: Discrete Policy - Learning Disentangled Action Space for Multi-Task Robotic Manipulation
     authors: Kun Wu*, <strong>Yichen Zhu* (co-first author)</strong>, Jinming Li, Junjie Wen, Ning Liu, Zhiyuan Xu, Qirui Qiu, Jian Tang
@@ -43,6 +36,13 @@ main:
     conference: Arxiv, 2024
     pdf: https://arxiv.org/pdf/2406.19693
     image: ./assets/files/mmro_file.png
+  
+  - title: Mipha - A Comprehensive Overhaul of Multimodal Assistant with Small Language Models
+    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Ning Liu, Xin Liu, Zhiyuan Xu, Chaomin Shen, Yaxin Peng
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025
+    pdf: https://arxiv.org/abs/2403.06199
+    image: ./assets/files/mipha.png
 
   - title: Any2Policy - Learning Visuomotor Policy with Any-Modality
     authors: <strong>Yichen Zhu</strong>, Zhicai Ou, Feifei Feng, Jian Tang

@@ -1,4 +1,12 @@
 main:
+  - title: Improving Vision-Language-Action Models via Chain-of-Affordance
+    authors: Jinming Li*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Zhibin Tang, Junjie Wen, Minjie Zhu, Xiaoyu Liu, Chengmeng Li, Ran Cheng, Yaxin Peng, Feifei Feng
+    conference_short: Arxiv
+    conference: Arxiv, 2024
+    pdf: https://arxiv.org/pdf/2412.20451
+    page: https://chain-of-affordance.github.io/
+    image: ./assets/files/coa-vla.png
+
   - title: Diffusion-VLA - Scaling Robot Foundation Models via Unified Diffusion and Autoregression
     authors: Junjie Wen*, Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Zhibin Tang, Jinming Li, Zhongyi Zhou, Chengmeng Li, Xiaoyu Liu, Yaxin Peng, Chaomin Shen, Feifei Feng
     conference_short: Arxiv

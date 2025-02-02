@@ -4,7 +4,7 @@
 
 <ul>
 <li><strong>[Jan. 2025]</strong> I am glad that our works, <a href="https://tiny-vla.github.io/">TinyVLA</a> & <a href="https://scaling-diffusion-policy.github.io/">ScaleDP</a>, have been cited by Physical Intelligence (&pi;<sub>0</sub> & FAST).</li>
-<li><strong>[Jan. 2025]</strong> Two papers on diffusion policy (ScaleDP & Dicrete Policy) are accepted to <span style="color:#e74d3c">ICRA 2025</span>.</li>
+<li><strong>[Jan. 2025]</strong> Two papers on diffusion policy (ScaleDP & Discrete Policy) are accepted to <span style="color:#e74d3c">ICRA 2025</span>.</li>
 <li><strong>[Dec. 2024]</strong> We introduce a new CoT-like method <span style="color:#e74d3c">Chain-of-Affordance</span>, check out our project page <span style="color:#e74d3c"><a href="https://chain-of-affordance.github.io/">chain-of-affordance.github.io</a></span>.</li>
 <li><strong>[Dec. 2024]</strong> We release a very strong robot foundation model called <span style="color:#e74d3c">Diffusion-VLA</span>, check out our project page <span style="color:#e74d3c"><a href="https://diffusion-vla.github.io/">diffusion-vla.github.io</a></span>.</li>
 <li><strong>[Dec. 2024]</strong> Our paper Mipha, exploring the training strategy of multimodal small language model, is accepted to <span style="color:#e74d3c">AAAI 2025</span>.</li>

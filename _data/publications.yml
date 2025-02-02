@@ -15,14 +15,6 @@ main:
     page: https://diffusion-vla.github.io
     image: ./assets/files/divla.png
 
-  - title: Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
-    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Ning Liu, Ran Cheng, Chaomin Shen, Yaxin Peng, Feifei Feng, Jian Tang
-    conference_short: Arxiv
-    conference: Arxiv, 2024
-    pdf: https://arxiv.org/pdf/2409.14411
-    page: https://scaling-diffusion-policy.github.io
-    image: ./assets/files/scaledp.png
-
   - title: TinyVLA - Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation
     authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Minjie Zhu, Kun Wu, Zhiyuan Xu, Ran Cheng, Chaomin Shen, Yaxin Peng, Feifei Feng, Jian Tang
     conference_short: Arxiv
@@ -31,19 +23,20 @@ main:
     page: https://tiny-vla.github.io
     image: ./assets/files/tinyvla.png
 
+  - title: Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
+    authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Ning Liu, Ran Cheng, Chaomin Shen, Yaxin Peng, Feifei Feng, Jian Tang
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
+    pdf: https://arxiv.org/pdf/2409.14411
+    page: https://scaling-diffusion-policy.github.io
+    image: ./assets/files/scaledp.png
+
   - title: Discrete Policy - Learning Disentangled Action Space for Multi-Task Robotic Manipulation
     authors: Kun Wu*, <strong>Yichen Zhu* (co-first author)</strong>, Jinming Li, Junjie Wen, Ning Liu, Zhiyuan Xu, Qirui Qiu, Jian Tang
-    conference_short: Arxiv
-    conference: Arxiv, 2024
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
     pdf: https://arxiv.org/pdf/2409.18707
     image: ./assets/files/discrete_policy.png
-  
-  - title: Are Multimodal LLMs Eligible as the “Brain” for In-Home Robotics?
-    authors: Jinming Li*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Minjie Zhu, Jindong Gu, Zhiyuan Xu, Ning Liu, Yaxin Peng, Feifei Feng
-    conference_short: Arxiv
-    conference: Arxiv, 2024
-    pdf: https://arxiv.org/pdf/2406.19693
-    image: ./assets/files/mmro_file.png
   
   - title: Mipha - A Comprehensive Overhaul of Multimodal Assistant with Small Language Models
     authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Ning Liu, Xin Liu, Zhiyuan Xu, Chaomin Shen, Yaxin Peng

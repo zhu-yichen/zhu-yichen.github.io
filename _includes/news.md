@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Jan. 2025]</strong> Glad that our works TinyVLA & ScaleDP have been cited by works from Physical Intelligence ($\pi_0$ & FAST).</li>
+<li><strong>[Jan. 2025]</strong> Glad that our works TinyVLA & ScaleDP have been cited by works from Physical Intelligence (&pi:<sub>0</sub> & FAST).</li>
 <li><strong>[Jan. 2025]</strong> Two papers on diffusion policy (ScaleDP & Dicrete Policy) are accepted to <span style="color:#e74d3c">ICRA 2025</span>.</li>
 <li><strong>[Dec. 2024]</strong> We introduce a new CoT-like method <span style="color:#e74d3c">Chain-of-Affordance</span>, check out our project page <span style="color:#e74d3c"><a href="https://chain-of-affordance.github.io/">chain-of-affordance.github.io</a></span>.</li>
 <li><strong>[Dec. 2024]</strong> We release a very strong robot foundation model called <span style="color:#e74d3c">Diffusion-VLA</span>, check out our project page <span style="color:#e74d3c"><a href="https://diffusion-vla.github.io/">diffusion-vla.github.io</a></span>.</li>

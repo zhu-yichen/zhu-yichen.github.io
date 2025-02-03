@@ -4,11 +4,10 @@
 
 <ul>
 <li><strong>[Jan. 2025]</strong> I am glad that our works, <a href="https://tiny-vla.github.io/">TinyVLA</a> & <a href="https://scaling-diffusion-policy.github.io/">ScaleDP</a>, have been cited by Physical Intelligence (&pi;<sub>0</sub> & FAST).</li>
+<li><strong>[Jan. 2025]</strong> Glad that our works, <a href="https://github.com/zhuyiche/llava-phi">LLava-Phi</a> , have been cited by Deepseek (Janus-Series, including Janus, Janus-Flow, and Janus-Pro).</li>
 <li><strong>[Jan. 2025]</strong> Two papers on diffusion policy (<a href="https://scaling-diffusion-policy.github.io/">ScaleDP</a> & <a href="https://discretepolicy.github.io/">Discrete Policy</a>) are accepted to <span style="color:#e74d3c">ICRA 2025</span>.</li>
 <li><strong>[Dec. 2024]</strong> We introduce a new CoT-like method <span style="color:#e74d3c">Chain-of-Affordance</span>, check out our project page <span style="color:#e74d3c"><a href="https://chain-of-affordance.github.io/">chain-of-affordance.github.io</a></span>.</li>
-<li><strong>[Dec. 2024]</strong> We release a very strong robot foundation model called <span style="color:#e74d3c">Diffusion-VLA</span>, check out our project page <span style="color:#e74d3c"><a href="https://diffusion-vla.github.io/">diffusion-vla.github.io</a></span>.</li>
+<li><strong>[Dec. 2024]</strong> We release a very strong baseline called <span style="color:#e74d3c"><a href="https://diffusion-vla.github.io/">DiffusionVLA</a> that intergrating autoregressive reasoning to the robot model</span>.</li>
 <li><strong>[Dec. 2024]</strong> Our paper Mipha, exploring the training strategy of multimodal small language model, is accepted to <span style="color:#e74d3c">AAAI 2025</span>.</li>
 <li><strong>[Sep. 2024]</strong> Three papers are accepted to <span style="color:#e74d3c">NeurIPS 2024</span>.</li>
-<li><strong>[Sep. 2024]</strong> We release <span style="color:#e74d3c">ScaleDP</span>, which scaling up the <span style="color:#e74d3c">Diffusion Policy to 1B parameters</span>. Project can be found at <span style="color:#e74d3c"><a href="https://scaling-diffusion-policy.github.io/">scaling-diffusion-policy.github.io</a></span>.</li>
-<li><strong>[Sep. 2024]</strong> We present <span style="color:#e74d3c">TinyVLA</span>, a family of lightweight & data-efficient vision-language-action models. Project can be found at <span style="color:#e74d3c"><a href="https://tiny-vla.github.io/">tiny-vla.github.io</a></span>.</li>
 </ul>

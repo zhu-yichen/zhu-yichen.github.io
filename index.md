@@ -10,9 +10,6 @@ I am currently a Researher & Team Lead in Robotics at [Midea Group](https://www.
 
 My goal is to build generalist robots. My research interests lie at the intersection of embodied AI, vision-language model, and model compression. I'm always up for exploring potential collaborations and/or engaging in insightful research conversations, feel free to get in touch!
 
-yichen_zhu at foxmaill dot com
-
-
 {% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}

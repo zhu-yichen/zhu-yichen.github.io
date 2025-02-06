@@ -17,8 +17,8 @@ main:
 
   - title: TinyVLA - Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation
     authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Minjie Zhu, Kun Wu, Zhiyuan Xu, Ran Cheng, Chaomin Shen, Yaxin Peng, Feifei Feng, Jian Tang
-    conference_short: Arxiv
-    conference: Arxiv, 2024
+    conference_short: IEEE RAL
+    conference: IEEE Robotics and Automation Letters, 2025
     pdf: https://arxiv.org/pdf/2409.12514
     page: https://tiny-vla.github.io
     image: ./assets/files/tinyvla.png

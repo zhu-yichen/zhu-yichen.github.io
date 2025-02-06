@@ -3,6 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Jan. 2025]</strong> <a href="https://tiny-vla.github.io/">TinyVLA</a> is accepted to IEEE RAL.</li>
 <li><strong>[Jan. 2025]</strong> I am glad that two of our papers, <a href="https://tiny-vla.github.io/">TinyVLA</a> & <a href="https://scaling-diffusion-policy.github.io/">ScaleDP</a>, have been cited by Physical Intelligence (&pi;<sub>0</sub> & FAST).</li>
 <li><strong>[Jan. 2025]</strong> Glad that our work, <a href="https://github.com/zhuyiche/llava-phi">LLava-Phi</a> , have been cited by Deepseek (Janus-Series, including Janus, Janus-Flow, and Janus-Pro).</li>
 <li><strong>[Jan. 2025]</strong> Two papers on diffusion policy (<a href="https://scaling-diffusion-policy.github.io/">ScaleDP</a> & <a href="https://discretepolicy.github.io/">Discrete Policy</a>) are accepted to <span style="color:#e74d3c">ICRA 2025</span>.</li>

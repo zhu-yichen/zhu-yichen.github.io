@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Feb. 2025]</strong> We release <a href="https://dex-vla.github.io/">DexVLA</a>, which achieved the <span style="color:#e74d3c">folding randomly placed clothes using only 15 hours of data</span>.</li>
+<li><strong>[Feb. 2025]</strong> We release <a href="https://dex-vla.github.io/">DexVLA</a>, a new framework that can complete <span style="color:#e74d3c">laundry folding using only 15 hours of data</span>.</li>
 <li><strong>[Feb. 2025]</strong> <a href="https://tiny-vla.github.io/">TinyVLA</a> is accepted to IEEE RAL.</li>
 <li><strong>[Jan. 2025]</strong> I am glad that two of our papers, <a href="https://tiny-vla.github.io/">TinyVLA</a> & <a href="https://scaling-diffusion-policy.github.io/">ScaleDP</a>, have been cited by Physical Intelligence (&pi;<sub>0</sub> & FAST).</li>
 <li><strong>[Jan. 2025]</strong> Glad that our work, <a href="https://github.com/zhuyiche/llava-phi">LLava-Phi</a> , have been cited by Deepseek (Janus-Series, including Janus, Janus-Flow, and Janus-Pro).</li>

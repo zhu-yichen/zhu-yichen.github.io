@@ -1,4 +1,20 @@
 main:
+  - title: ChatVLA - Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model
+    authors: Zhongyi Zhou, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Minjie Zhu, Junjie Wen, Ning Liu, Zhiyuan Xu, Weibin Meng, Ran Cheng, Yaxin Peng, Chaomin Shen, Feifei Feng
+    conference_short: Preprint
+    conference: Preprint, 2025
+    pdf: https://arxiv.org/pdf/2502.14420
+    page: https://chatvla.github.io/
+    image: ./assets/files/chatvla_gif.gif
+
+  - title: ObjectVLA - End-to-End Open-World Object Manipulation without Demonstration
+    authors: Minjie Zhu, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Zhongyi Zhou, Junjie Wen, Xiaoyu Liu, Chaomin Shen, Yaxin Peng, Feifei Feng
+    conference_short: Preprint
+    conference: Preprint, 2025
+    pdf: https://arxiv.org/pdf/2502.19250
+    page: https://objectvla.github.io/
+    image: ./assets/files/objectvla_gif.gif
+
   - title: DexVLA - Vision-Language Model with Plug-In Diffusion Expert for Visuomotor Policy Learning
     authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Yaxin Peng, Chaomin Shen, Feifei Feng
     conference_short: Preprint

@@ -3,6 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Feb. 2025]</strong> Thanks for the recent speaking invitations from the Zhejiang Humanoid Innovation Center, Tsinghua University, and Shanghai University.</li>
 <li><strong>[Feb. 2025]</strong> We release <a href="https://dex-vla.github.io/">DexVLA</a>, a new framework that can complete <span style="color:#e74d3c">laundry folding using only 15 hours of data</span>.</li>
 <li><strong>[Feb. 2025]</strong> <a href="https://tiny-vla.github.io/">TinyVLA</a> is accepted to IEEE RAL.</li>
 <li><strong>[Jan. 2025]</strong> I am glad that two of our papers, <a href="https://tiny-vla.github.io/">TinyVLA</a> & <a href="https://scaling-diffusion-policy.github.io/">ScaleDP</a>, have been cited by Physical Intelligence (&pi;<sub>0</sub> & FAST).</li>

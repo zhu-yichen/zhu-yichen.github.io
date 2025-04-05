@@ -1,4 +1,12 @@
 main:
+  - title: PointVLA - PointVLA: Injecting the 3D World into Vision-Language-Action Models
+    authors: Chengmeng Li, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Yaxin Peng, Yan Peng, Feifei Feng
+    conference_short: Preprint
+    conference: Preprint, 2025
+    pdf: https://arxiv.org/pdf/2503.07511
+    page: https://pointvla.github.io/
+    image: ./assets/files/pointvla.gif
+
   - title: ChatVLA - Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model
     authors: Zhongyi Zhou, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Minjie Zhu, Junjie Wen, Ning Liu, Zhiyuan Xu, Weibin Meng, Ran Cheng, Yaxin Peng, Chaomin Shen, Feifei Feng
     conference_short: Preprint

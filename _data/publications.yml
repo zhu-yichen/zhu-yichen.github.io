@@ -53,7 +53,7 @@ main:
     conference: IEEE Robotics and Automation Letters, 2025
     pdf: https://arxiv.org/pdf/2409.12514
     page: https://tiny-vla.github.io
-    image: ./assets/files/tinyvla.png
+    image: ./assets/files/tinyvla_gif.gif
 
   - title: Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
     authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Junjie Wen, Zhiyuan Xu, Ning Liu, Ran Cheng, Chaomin Shen, Yaxin Peng, Feifei Feng, Jian Tang
@@ -61,14 +61,14 @@ main:
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
     pdf: https://arxiv.org/pdf/2409.14411
     page: https://scaling-diffusion-policy.github.io
-    image: ./assets/files/scaledp.png
+    image: ./assets/files/scaledp_gif.gif
 
   - title: Discrete Policy - Learning Disentangled Action Space for Multi-Task Robotic Manipulation
     authors: Kun Wu*, <strong>Yichen Zhu* (co-first author)</strong>, Jinming Li, Junjie Wen, Ning Liu, Zhiyuan Xu, Qirui Qiu, Jian Tang
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2025
     pdf: https://arxiv.org/pdf/2409.18707
-    image: ./assets/files/discrete_policy.png
+    image: ./assets/files/discrete_gif.gif
   
   - title: Mipha - A Comprehensive Overhaul of Multimodal Assistant with Small Language Models
     authors: Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Ning Liu, Xin Liu, Zhiyuan Xu, Chaomin Shen, Yaxin Peng

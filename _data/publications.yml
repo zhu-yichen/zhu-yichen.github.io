@@ -40,9 +40,9 @@ main:
     image: ./assets/files/coa_gif.gif
 
   - title: Diffusion-VLA - Scaling Robot Foundation Models via Unified Diffusion and Autoregression
-    authors: Junjie Wen*, Minjie Zhu*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Zhibin Tang, Jinming Li, Zhongyi Zhou, Chengmeng Li, Xiaoyu Liu, Yaxin Peng, Chaomin Shen, Feifei Feng
-    conference_short: Arxiv
-    conference: Arxiv, 2024
+    authors: Junjie Wen*,  <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Minjie Zhu*, Zhibin Tang, Jinming Li, Zhongyi Zhou, Chengmeng Li, Xiaoyu Liu, Yaxin Peng, Chaomin Shen, Feifei Feng
+    conference_short: ICML
+    conference: International Conference on Machine Learning (ICML), 2025
     pdf: https://arxiv.org/pdf/2412.03293
     page: https://diffusion-vla.github.io
     image: ./assets/files/divla_gif.gif

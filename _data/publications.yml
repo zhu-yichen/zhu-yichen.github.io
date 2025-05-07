@@ -171,22 +171,6 @@ main:
     image: ./assets/files/scalekd.png
     bibtex: ./assets/files/scalekd_bib.txt
 
-  - title: When Training-Free Nas Meets Vision Transformers - A Neural Tangent Kernel Perspective
-    authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)</strong>
-    conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Oral, 2023
-    pdf: https://www.researchgate.net/profile/Yichen-Zhu/publication/379153394_WHEN_TRAINING-FREE_NAS_MEETS_VISION_TRANSFORMERS_A_NEURAL_TANGENT_KERNEL_PERSPECTIVE/links/65fd1ae1d3a08551423d3483/WHEN-TRAINING-FREE-NAS-MEETS-VISION-TRANSFORMERS-A-NEURAL-TANGENT-KERNEL-PERSPECTIVE.pdf
-    image: ./assets/files/icassp.png
-    bibtex: ./assets/files/tfnas_icassp_bib.txt
-
-  - title: Make A Long Image Short - Adaptive Token Length for Vision Transformers
-    authors: Qiqi Zhou, <strong>Yichen Zhu* (Corresponding Author)</strong>
-    conference_short: ECML/PKDD
-    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML/PKDD), 2023
-    pdf: https://arxiv.org/pdf/2307.02092
-    image: ./assets/files/ecml.png
-    bibtex: ./assets/files/ecml_bib.txt
-
   - title: Label-Guided Auxiliary Training Improves 3D Object Detector
     authors: Yaomin Huang*, Xinmei Liu*, <strong>Yichen Zhu</strong>, Zhiyuan Xu, Chaomin Shen, Zhengping Che, Guixu Zhang, Yaxin Peng, Feifei Feng, Jian Tang
     conference_short: ECCV

@@ -9,8 +9,8 @@ main:
 
   - title: WorldEval - World Model as Real-World Robot Policies Evaluator
     authors: Yaxuan Li, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Junjie Wen, Chaomin Shen, Yi Xu
-    conference_short: Preprint
-    conference: Generated Video
+    conference_short: Generated Video
+    conference: Preprint, 2025
     pdf: https://arxiv.org/pdf/2505.19017
     page: https://worldeval.github.io/
     image: ./assets/files/worldeval_gif.gif

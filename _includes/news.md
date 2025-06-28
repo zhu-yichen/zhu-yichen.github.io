@@ -2,6 +2,7 @@
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
+<ul><strong>[May. 2025]</strong> CoA-VLA is accepted to <span style="color:#e74d3c">ICCV 2025</span>!. 
 <ul><strong>[May. 2025]</strong> DiffusionVLA is accepted to <span style="color:#e74d3c">ICML 2025</span>! Our proposed reasoning prediction technique is used by &pi;<sub>0.5</sub>, who cited our latest DexVLA paper. 
 <li><strong>[Feb. 2025]</strong> We release <a href="https://dex-vla.github.io/">DexVLA</a>, a new framework that can complete <span style="color:#e74d3c">laundry folding using only 15 hours of data</span>.</li>
 <li><strong>[Feb. 2025]</strong> <a href="https://tiny-vla.github.io/">TinyVLA</a> is accepted to IEEE RAL.</li>

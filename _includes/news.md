@@ -2,8 +2,8 @@
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
-<li><strong>[June. 2025]</strong> CoA-VLA is accepted to <span style="color:#e74d3c">ICCV 2025</span></li>
-<li><strong>[May. 2025]</strong> We propose the first VLA model that preserves the reasoning capabilities of VLMs, enabling robots to perform open-world manipulation tasks without requiring any corresponding training data. <a href="https://chatvla-2.github.io/">ChatVLA-2</a> is available here!</li>
+<li><strong>[June. 2025]</strong> CoA-VLA is accepted to <span style="color:#e74d3c">ICCV 2025</span>.</li>
+<li><strong>[May. 2025]</strong> We propose the first VLA model that preserves the reasoning capabilities of VLMs, enabling robots to perform open-world manipulation tasks without requiring any reasoning-specific training data. <a href="https://chatvla-2.github.io/">ChatVLA-2</a> is available here!</li>
 <li><strong>[May. 2025]</strong> We present <a href="https://worldeval.github.io/">WorldEval</a>, a world model to evaluation real-world robot policy entirely online!</li>
 <li><strong>[May. 2025]</strong> DiffusionVLA is accepted to <span style="color:#e74d3c">ICML 2025</span>! Our proposed reasoning prediction technique is used by &pi;<sub>0.5</sub>, who cited our latest DexVLA paper. </li>
 <li><strong>[Feb. 2025]</strong> We release <a href="https://dex-vla.github.io/">DexVLA</a>, a new framework that can complete <span style="color:#e74d3c">laundry folding using only 15 hours of data</span>.</li>

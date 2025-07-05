@@ -15,9 +15,9 @@
 <li><strong>[Dec. 2024]</strong> Our paper Mipha, exploring the training strategy of multimodal small language model, is accepted to <span style="color:#e74d3c">AAAI 2025</span>.</li>
 <li><strong>[Sep. 2024]</strong> Three papers are accepted to <span style="color:#e74d3c">NeurIPS 2024</span>.</li>
 
-<li><strong>Loganomaly is the 10th most cited paper from 2019-2024 in IJCAI. MM-SafetyBench is the 14th most cited paper in ECCV 2024. Mipha is the 10th most cited paper in AAAI 2025. TinyVLA is the 1st most cited paper in IEEE RAL 2025</li>
 
-- **Loganomaly**: 10th most cited paper (2019–2024) in IJCAI.
-- **MM-SafetyBench**: 14th most cited paper in ECCV 2024.
-- **Mipha**: 10th most cited paper in AAAI 2025.
-- **TinyVLA**: 1st most cited paper in IEEE RAL 2025.
+<h2 style="margin: 30px 0px 10px;">Highlight</h2>
+<li><strong>Loganomaly is the 10th most cited paper (2019–2024) in IJCAI.</li>
+<li><strong>MM-SafetyBench is the 14th most cited paper in ECCV 2024.</li>
+<li><strong>Mipha (LLava-Phi) is the 10th most cited paper in AAAI 2025.</li>
+<li><strong>TinyVLA is the most cited paper in IEEE RAL 2025.</li>

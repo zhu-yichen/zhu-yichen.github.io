@@ -2,6 +2,7 @@
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
+<<<<<<< HEAD
 <li><strong>[June. 2025]</strong>CoA-VLA is accepted to <span style="color:#e74d3c">ICCV 2025</span></li>
 <li><strong>[May. 2025]</strong>We propose the first VLA model that preserves the reasoning capabilities of VLMs, enabling robots to perform open-world manipulation tasks without requiring any corresponding training data. <a href="https://chatvla-2.github.io/">ChatVLA-2</a> is available here!</li>
 <li><strong>[May. 2025]</strong>We present <a href="https://worldeval.github.io/">WorldEval</a>, a world model to evaluation real-world robot policy entirely online!</li>

@@ -47,10 +47,10 @@ main:
     page: https://dex-vla.github.io/
     image: ./assets/files/dex_vla_gif.gif
 
-  - title: Improving Vision-Language-Action Models via Chain-of-Affordance
+  - title: CoA-VLA - Improving Vision-Language-Action Models via Chain-of-Affordance
     authors: Jinming Li*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Zhibin Tang, Junjie Wen, Minjie Zhu, Xiaoyu Liu, Chengmeng Li, Ran Cheng, Yaxin Peng, Feifei Feng
-    conference_short: Arxiv
-    conference: Arxiv, 2024
+    conference_short: ICCV
+    conference: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025
     pdf: https://arxiv.org/pdf/2412.20451
     page: https://chain-of-affordance.github.io/
     image: ./assets/files/coa_gif.gif

@@ -1,8 +1,8 @@
 main:
   - title: ChatVLA-2 - Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge
     authors: Zhongyi Zhou, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Junjie Wen, Chaomin Shen, Yi Xu
-    conference_short: Preprint
-    conference: Preprint, 2025
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems (NeurIPS), 2025
     pdf: https://arxiv.org/pdf/2505.21906
     page: https://chatvla-2.github.io/
     image: ./assets/files/chatvla2_git.gif
@@ -25,8 +25,8 @@ main:
 
   - title: ChatVLA - Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model
     authors: Zhongyi Zhou, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Minjie Zhu, Junjie Wen, Ning Liu, Zhiyuan Xu, Weibin Meng, Ran Cheng, Yaxin Peng, Chaomin Shen, Feifei Feng
-    conference_short: Preprint
-    conference: Preprint, 2025
+    conference_short: EMNLP Oral
+    conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), Oral, 2025
     pdf: https://arxiv.org/pdf/2502.14420
     page: https://chatvla.github.io/
     image: ./assets/files/chatvla_gif.gif
@@ -42,7 +42,7 @@ main:
   - title: DexVLA - Vision-Language Model with Plug-In Diffusion Expert for Visuomotor Policy Learning
     authors: Junjie Wen*, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Jinming Li, Yaxin Peng, Chaomin Shen, Feifei Feng
     conference_short: Preprint
-    conference: Preprint, 2025
+    conference: Conference on Robot Learning (CoRL), 2025
     pdf: https://arxiv.org/pdf/2502.05855
     page: https://dex-vla.github.io/
     image: ./assets/files/dex_vla_gif.gif

@@ -1,4 +1,12 @@
 main:
+  - title: HumanoidExo - Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton
+    authors: Rui Zhong, Yizhe Sun, Junjie Wen, Jinming Li, Chuang Cheng, Wei Dai, Zhiwen Zeng, Huimin Lu†, Yichen Zhu, Yi Xu
+    conference_short: Preprint
+    conference: Preprint, 2025
+    pdf: https://humanoid-exo.github.io/static/pdfs/HumanoidExo.pdf
+    page: https://humaniod-exo.github.io/
+    image: ./assets/files/humaniodexo_git.gif
+
   - title: ChatVLA-2 - Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge
     authors: Zhongyi Zhou, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Junjie Wen, Chaomin Shen, Yi Xu
     conference_short: Preprint

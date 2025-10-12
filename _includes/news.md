@@ -2,6 +2,7 @@
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
+<li><strong>[Oct. 2025]</strong> We are now focuing on in-the-wild, robotless data collection. We release <a href="http://activeumi.github.io/">ActiveUMI</a> and <a href="https://humanoid-exo.github.io/">HumaniodExo</a>. </li>
 <li><strong>[Aug. 2025]</strong> DexVLA is accepted to <span style="color:#e74d3c">CoRL 2025</span>. ChatVLA is accepted to <span style="color:#e74d3c">EMNLP 2025</span>. </li>
 <li><strong>[June. 2025]</strong> CoA-VLA is accepted to <span style="color:#e74d3c">ICCV 2025</span>.</li>
 <li><strong>[May. 2025]</strong> We propose the first VLA model that preserves the reasoning capabilities of VLMs, enabling robots to perform open-world manipulation tasks without requiring any reasoning-specific training data. <a href="https://chatvla-2.github.io/">ChatVLA-2</a> is available here!</li>

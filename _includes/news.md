@@ -22,6 +22,6 @@
 
 <h2 style="margin: 30px 0px 10px;">Highlight</h2>
 <li><strong>Loganomaly</strong> is the 10th most-cited paper in IJCAI (2019–2024).</li>
-<li><strong>MM-SafetyBench</strong> is the 14th most-cited paper in ECCV 2024.</li>
-<li><strong>Mipha (LLava-Phi)</strong> is the 10th most-cited paper in AAAI 2025.</li>
-<li><strong>TinyVLA</strong> is the most-cited paper in IEEE RAL 2025.</li>
+<li><strong>MM-SafetyBench</strong> is the 15th most-cited paper in ECCV 2024.</li>
+<li><strong>Mipha (LLava-Phi)</strong> is the 3rd most-cited paper in AAAI 2025.</li>
+<li><strong>TinyVLA</strong> is the 1st most-cited paper in IEEE RAL 2025.</li>

@@ -7,7 +7,7 @@ main:
     page: https://humaniod-exo.github.io/
     image: ./assets/files/humaniodexo_gif.gif
 
-  - title: HumanoidExo - Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton
+  - title: ActiveUMI - Robotic Manipulation with Active Perception from Robot‑Free Human Demonstrations
     authors: Qiyuan Zeng, Chengmeng Li, Jude St. John, Zhongyi Zhou, Junjie Wen, Guorui Feng1, <strong>Yichen Zhu* (co-first author & corresponding author)</strong>, Yi Xu
     conference_short: Preprint
     conference: Preprint, 2025
